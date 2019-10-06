@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"First Floor","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":1,"expanded":false,"name":"First Floor","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":2,"expanded":false,"name":"Third Floor","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"Outside","order":3,"parentId":0,"scrollX":819,"scrollY":461}
 ]
