@@ -9,7 +9,7 @@ Created by:
 
 ### description ###
 Included are the full RPG Maker MV project files for the game to peruse as wanted.
-Alteratively, there is a full Windows executable in the _BUILD folder.
+Alteratively, there is a full Windows executable in the _BUILD folder (_BUILD/thebiggertheyare/Game.exe).
 
 ### a small request ###
 We kindly ask, simply because this is a collaborative artifact, that should you be interested 
